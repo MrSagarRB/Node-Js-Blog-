@@ -1,0 +1,9 @@
+
+    {  
+    "title":"What is Node.js?",
+    "post":"A lot of the confusion for newcomers to Node is misunderstanding exactly what it is. The description on nodejs.org definitely doesn't help.An important thing to realize is that Node is not a webserver. By itself it doesn't do anything. It doesn't work like Apache. There is no config file where you point it to you HTML files. If you want it to be a HTTP server, you have to write an HTTP server (with the help of its built-in libraries). Node.js is just another way to execute code on your computer. It is simply a JavaScript runtime."
+   }
+
+   
+
+
